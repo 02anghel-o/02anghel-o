@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>02ANGHEL-O.EXE</h1>
+<h1>02ANGHEL-O</h1>
 
 <h3>SOFTWARE DEVELOPMENT STUDENT</h3>
 
@@ -45,10 +45,6 @@ I'm a software development student learning how to turn ideas into code.
 
 <p>
 I enjoy experimenting with programming, web development and creating random ideas just to see what happens.
-</p>
-
-<p>
-I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old interfaces, retro games, Y2K aesthetics and the weird charm of early internet culture.
 </p>
 
 <div align="center">
@@ -120,17 +116,12 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 <td align="center">
 
 <strong>CURRENT OBJECTIVE</strong>
-
 <br><br>
-
 LEARNING SOFTWARE DEVELOPMENT
 
 <br><br>
-
 ████████████░░░░░░░░ 60%
-
 <br><br>
-
 &gt; Learn
 <br>
 &gt; Experiment
@@ -138,11 +129,8 @@ LEARNING SOFTWARE DEVELOPMENT
 &gt; Build
 <br>
 &gt; Improve
-
 <br><br>
-
 <strong>STATUS: IN PROGRESS</strong>
-
 </td>
 </tr>
 </table>
@@ -295,7 +283,7 @@ MORE SOON...
 
 <br>
 
-<h3>▶ NOW PLAYING: 02ANGHEL-O.EXE</h3>
+<h3>▶ NOW PLAYING: 02ANGHEL-O</h3>
 
 <p>
 <code>○ ○ ○</code>

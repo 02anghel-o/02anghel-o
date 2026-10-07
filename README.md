@@ -25,9 +25,6 @@ I'm a software development student learning how to turn ideas into code.
 I enjoy experimenting with programming, web development and random ideas that probably shouldn't work but somehow do.
 </p>
 
-<p>
-Outside of coding, I'm a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old interfaces, retro games and strange Y2K aesthetics.
-</p>
 
 <div align="center">
 

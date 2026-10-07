@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./winamp-top.png" width="100%">
+<img src="./winamp-bottom.png" width="100%">
 
 <br>
 
@@ -291,7 +291,7 @@ MORE SOON...
 
 <div align="center">
 
-<img src="./winamp-bottom.png" width="100%">
+<img src="./winamp-top.png" width="100%">
 
 <br>
 

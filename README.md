@@ -1,20 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11140C,50:303B1C,100:FF3B22&height=180&section=header&text=02ANGHEL-O&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%20PROFILE&descSize=18&descAlignY=60&animation=fadeIn" width="100%">
+<img src="https://raw.githubusercontent.com/02anghel-o/02anghel-o/main/winamp-top.png" width="100%">
 
-<h1>🎮 PLAYER 01</h1>
+<br>
 
-<h3>SOFTWARE DEVELOPMENT STUDENT</h3>
+# `02ANGHEL-O.EXE`
 
-<p>
-STATUS: ONLINE &nbsp; | &nbsp; MODE: LEARNING &nbsp; | &nbsp; LEVEL: ???
-</p>
+### SOFTWARE DEVELOPMENT STUDENT
+
+`[ SYSTEM ONLINE ]` &nbsp;&nbsp; `[ PLAYER 01 ]` &nbsp;&nbsp; `[ MODE: LEARNING ]`
 
 </div>
 
-<hr>
+<br>
 
-<h2>👾 ABOUT ME</h2>
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+<h3>☰ MENU</h3>
+
+<br>
+
+<b>▶ HOME</b>
+
+<br><br>
+
+<b>○ ABOUT</b>
+
+<br><br>
+
+<b>⚙ SKILLS</b>
+
+<br><br>
+
+<b>▣ QUESTS</b>
+
+<br><br>
+
+<b>□ PROJECTS</b>
+
+<br><br>
+
+<b>↗ SOCIAL</b>
+
+<br><br><br>
+
+━━━━━━━━━━━━━━
+
+<br><br>
+
+<small>
+
+`02ANGHEL-O`<br>
+`PLAYER 01`<br>
+`ONLINE`
+
+</small>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>› ABOUT ME</h2>
 
 <p>
 Hi! I'm <strong>02anghel-o</strong>.
@@ -22,115 +75,85 @@ Hi! I'm <strong>02anghel-o</strong>.
 
 <p>
 I'm a software development student learning how to turn ideas into code.
-I enjoy experimenting with programming, web development and random ideas that probably shouldn't work but somehow do.
 </p>
 
+<p>
+I enjoy experimenting with programming, web development and creating random ideas just to see what happens.
+</p>
 
-<div align="center">
-
-<h3>BUILD. BREAK. FIX. REPEAT.</h3>
-
-</div>
-
-<hr>
-
-<h2>🕹️ PLAYER DATA</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<b>NAME</b><br>
-02ANGHEL-O
-
-</td>
-
-<td align="center">
-
-<b>CLASS</b><br>
-DEVELOPER
-
-</td>
-
-<td align="center">
-
-<b>STATUS</b><br>
-ONLINE
-
-</td>
-
-<td align="center">
-
-<b>MODE</b><br>
-LEARNING
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<hr>
-
-<div align="center">
-
-<h2>🎮 SKILL TREE</h2>
-
-<table>
-<tr>
-<td align="center">
-
-<h3>HTML</h3>
-
-██████████████████░░<br>
-
-<b>90%</b>
-
-</td>
-
-<td align="center">
-
-<h3>JAVASCRIPT</h3>
-
-███████████████░░░░░<br>
-
-<b>75%</b>
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>PYTHON</h3>
-
-█████████████░░░░░░░<br>
-
-<b>65%</b>
-
-</td>
-
-<td align="center">
-
-<h3>C#</h3>
-
-██████████░░░░░░░░░░<br>
-
-<b>50%</b>
-
-</td>
-
-</tr>
-</table>
+<p>
+I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old interfaces, retro games, Y2K aesthetics and the weird charm of early internet culture.
+</p>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark">
+<div align="center">
+
+<strong>BUILD. BREAK. FIX. REPEAT.</strong>
 
 </div>
+
+<hr>
+
+<h2>› PLAYER DATA</h2>
+
+<table>
+<tr>
+<td><strong>NAME</strong></td>
+<td>02ANGHEL-O</td>
+</tr>
+
+<tr>
+<td><strong>CLASS</strong></td>
+<td>DEVELOPER</td>
+</tr>
+
+<tr>
+<td><strong>STATUS</strong></td>
+<td>ONLINE</td>
+</tr>
+
+<tr>
+<td><strong>MODE</strong></td>
+<td>LEARNING</td>
+</tr>
+
+<tr>
+<td><strong>ERA</strong></td>
+<td>2000s</td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="top">
+
+<h2>› SKILL TREE</h2>
+
+<p><strong>HTML</strong></p>
+<p>██████████████████░░ 90%</p>
+
+<p><strong>JAVASCRIPT</strong></p>
+<p>███████████████░░░░░ 75%</p>
+
+<p><strong>PYTHON</strong></p>
+<p>█████████████░░░░░░░ 65%</p>
+
+<p><strong>C#</strong></p>
+<p>██████████░░░░░░░░░░ 50%</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="180">
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 <hr>
 
@@ -138,21 +161,21 @@ LEARNING
 
 <h2>💿 CURRENT QUEST</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=2200&pause=700&color=FF4B32&center=true&vCenter=true&width=600&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;BREAKING+MY+CODE...;FIXING+MY+CODE...;LEVELING+UP...">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;BREAKING+MY+CODE...;FIXING+MY+CODE...;LEVELING+UP..." />
 
 <br><br>
 
 <table>
 <tr>
-<td>
+<td align="center">
 
-<b>CURRENT OBJECTIVE</b>
+<strong>CURRENT OBJECTIVE</strong>
 
 <br><br>
 
 LEARNING SOFTWARE DEVELOPMENT
 
-<br>
+<br><br>
 
 ████████████░░░░░░░░ 60%
 
@@ -165,7 +188,7 @@ LEARNING SOFTWARE DEVELOPMENT
 
 <br><br>
 
-<b>STATUS: IN PROGRESS</b>
+<strong>STATUS: IN PROGRESS</strong>
 
 </td>
 </tr>
@@ -183,11 +206,11 @@ LEARNING SOFTWARE DEVELOPMENT
 <tr>
 <td align="center">
 
-<h3>PROJECT SELECT</h3>
+<h3>🔒 PROJECTS LOCKED</h3>
 
 <br>
 
-🔒 <b>NO PROJECTS YET</b>
+NO PROJECTS YET
 
 <br><br>
 
@@ -195,33 +218,35 @@ MORE SOON...
 
 <br><br>
 
-STATUS: LOCKED
+<small>NEW PROJECTS WILL APPEAR HERE</small>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<i>NEW PROJECTS WILL APPEAR HERE</i>
-
 </div>
 
 <hr>
+
+<div align="center">
 
 <h2>📡 SOCIAL LINK</h2>
 
-<div align="center">
+<br>
 
 <a href="https://github.com/02anghel-o">
-<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/trealcoco/">
-<img src="https://img.shields.io/badge/INSTAGRAM-TREALCOCO-FF3B22?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14">
 </a>
+
+<br><br>
+
+`GOOD MUSIC` &nbsp; `GOOD VIBES` &nbsp; `BETTER CODE`
 
 </div>
 
@@ -229,18 +254,22 @@ STATUS: LOCKED
 
 <div align="center">
 
-<h2>SYSTEM ONLINE</h2>
-
-<p>THANKS FOR VISITING</p>
-
-<h3>○ ○ ○</h3>
-
-<h3>[ INSERT COIN ]</h3>
-
-<p>02ANGHEL-O // END OF TRANSMISSION</p>
+<img src="https://raw.githubusercontent.com/02anghel-o/02anghel-o/main/winamp-bottom.png" width="100%">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B22,50:303B1C,100:11140C&height=100&section=footer" width="100%">
+<h3>▶ NOW PLAYING: 02ANGHEL-O.EXE</h3>
+
+<p>
+<code>○ ○ ○</code>
+</p>
+
+<p>
+<strong>[ INSERT COIN ]</strong>
+</p>
+
+<p>
+<code>02ANGHEL-O // END OF TRANSMISSION</code>
+</p>
 
 </div>

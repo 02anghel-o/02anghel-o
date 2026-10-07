@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="./winamp-bottom.png" width="100%">
+<img src="./winamp-top.png" width="100%">
 
 <br>
 
-# `02ANGHEL-O.EXE`
+<h1>02ANGHEL-O.EXE</h1>
 
-### SOFTWARE DEVELOPMENT STUDENT
+<h3>SOFTWARE DEVELOPMENT STUDENT</h3>
 
-`[ SYSTEM ONLINE ]` &nbsp;&nbsp; `[ PLAYER 01 ]` &nbsp;&nbsp; `[ MODE: LEARNING ]`
+<p>
+<code>[ SYSTEM ONLINE ]</code>
+&nbsp;
+<code>[ PLAYER 01 ]</code>
+&nbsp;
+<code>[ MODE: LEARNING ]</code>
+</p>
 
 </div>
 
@@ -17,7 +23,9 @@
 <table>
 <tr>
 
-<td width="25%" valign="top">
+<!-- LEFT MENU -->
+
+<td width="20%" valign="top">
 
 <div align="center">
 
@@ -25,39 +33,45 @@
 
 <br>
 
-<b>▶ HOME</b>
+<a href="#about-me">▣ HOME</a>
 
 <br><br>
 
-<b>○ ABOUT</b>
+<a href="#about-me">○ ABOUT</a>
 
 <br><br>
 
-<b>⚙ SKILLS</b>
+<a href="#skill-tree">⚙ SKILLS</a>
 
 <br><br>
 
-<b>▣ QUESTS</b>
+<a href="#current-quest">◈ QUESTS</a>
 
 <br><br>
 
-<b>□ PROJECTS</b>
+<a href="#project-select">□ PROJECTS</a>
 
 <br><br>
 
-<b>↗ SOCIAL</b>
+<a href="#social-link">↗ SOCIAL</a>
 
 <br><br><br>
 
-━━━━━━━━━━━━━━
+━━━━━━━━━━━━
 
 <br><br>
 
 <small>
 
-`02ANGHEL-O`<br>
-`PLAYER 01`<br>
-`ONLINE`
+02ANGHEL-O
+
+<br>
+
+PLAYER 01
+
+<br>
+
+ONLINE
 
 </small>
 
@@ -65,9 +79,12 @@
 
 </td>
 
-<td width="50%" valign="top">
 
-<h2>› ABOUT ME</h2>
+<!-- CENTER -->
+
+<td width="55%" valign="top">
+
+<h2 id="about-me">› ABOUT ME</h2>
 
 <p>
 Hi! I'm <strong>02anghel-o</strong>.
@@ -85,8 +102,6 @@ I enjoy experimenting with programming, web development and creating random idea
 I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old interfaces, retro games, Y2K aesthetics and the weird charm of early internet culture.
 </p>
 
-<br>
-
 <div align="center">
 
 <strong>BUILD. BREAK. FIX. REPEAT.</strong>
@@ -97,7 +112,8 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 
 <h2>› PLAYER DATA</h2>
 
-<table>
+<table width="100%">
+
 <tr>
 <td><strong>NAME</strong></td>
 <td>02ANGHEL-O</td>
@@ -122,50 +138,20 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 <td><strong>ERA</strong></td>
 <td>2000s</td>
 </tr>
-</table>
 
-</td>
-
-<td width="25%" valign="top">
-
-<h2>› SKILL TREE</h2>
-
-<p><strong>HTML</strong></p>
-<p>██████████████████░░ 90%</p>
-
-<p><strong>JAVASCRIPT</strong></p>
-<p>███████████████░░░░░ 75%</p>
-
-<p><strong>PYTHON</strong></p>
-<p>█████████████░░░░░░░ 65%</p>
-
-<p><strong>C#</strong></p>
-<p>██████████░░░░░░░░░░ 50%</p>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="180">
-
-</div>
-
-</td>
-
-</tr>
 </table>
 
 <hr>
 
+<h2 id="current-quest">💿 CURRENT QUEST</h2>
+
 <div align="center">
 
-<h2>💿 CURRENT QUEST</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;BREAKING+MY+CODE...;FIXING+MY+CODE...;LEVELING+UP..." />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=500&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;BREAKING+MY+CODE...;FIXING+MY+CODE...;LEVELING+UP...">
 
 <br><br>
 
-<table>
+<table width="90%">
 <tr>
 <td align="center">
 
@@ -181,9 +167,12 @@ LEARNING SOFTWARE DEVELOPMENT
 
 <br><br>
 
-&gt; Learn<br>
-&gt; Experiment<br>
-&gt; Build<br>
+&gt; Learn
+<br>
+&gt; Experiment
+<br>
+&gt; Build
+<br>
 &gt; Improve
 
 <br><br>
@@ -198,11 +187,11 @@ LEARNING SOFTWARE DEVELOPMENT
 
 <hr>
 
+<h2 id="project-select">🕹️ PROJECT SELECT</h2>
+
 <div align="center">
 
-<h2>🕹️ PROJECT SELECT</h2>
-
-<table>
+<table width="90%">
 <tr>
 <td align="center">
 
@@ -228,33 +217,81 @@ MORE SOON...
 
 <hr>
 
+<h2 id="social-link">📡 SOCIAL LINK</h2>
+
 <div align="center">
 
-<h2>📡 SOCIAL LINK</h2>
-
-<br>
-
 <a href="https://github.com/02anghel-o">
+
 <img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14">
-</a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/trealcoco/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14">
 </a>
 
 <br><br>
 
-`GOOD MUSIC` &nbsp; `GOOD VIBES` &nbsp; `BETTER CODE`
+<a href="https://www.instagram.com/trealcoco/">
+
+<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14">
+
+</a>
+
+<br><br>
+
+<code>GOOD MUSIC</code>
+&nbsp;
+<code>GOOD VIBES</code>
+&nbsp;
+<code>BETTER CODE</code>
 
 </div>
 
-<hr>
+</td>
+
+
+<!-- RIGHT SKILLS -->
+
+<td width="25%" valign="top">
+
+<h2 id="skill-tree">› SKILL TREE</h2>
+
+<p><strong>HTML</strong></p>
+
+<p>██████████████████░░<br>
+90%</p>
+
+<p><strong>JAVASCRIPT</strong></p>
+
+<p>███████████████░░░░░<br>
+75%</p>
+
+<p><strong>PYTHON</strong></p>
+
+<p>█████████████░░░░░░░<br>
+65%</p>
+
+<p><strong>C#</strong></p>
+
+<p>██████████░░░░░░░░░░<br>
+50%</p>
+
+<br>
 
 <div align="center">
 
-<img src="./winamp-top.png" width="100%">
+<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="160">
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./winamp-bottom.png" width="100%">
 
 <br>
 

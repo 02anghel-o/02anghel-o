@@ -20,71 +20,18 @@
 
 <br>
 
+<!-- ================================================= -->
+<!-- MAIN LAYOUT -->
+<!-- ================================================= -->
+
 <table width="100%">
 <tr>
 
-<!-- ==================== MENU ==================== -->
+<!-- ================= CENTER / MAIN ================= -->
 
-<td width="18%" valign="top">
+<td width="70%" valign="top">
 
-<div align="center">
-
-<h3>☰ MENU</h3>
-
-<br>
-
-<a href="#about-me">▣ HOME</a>
-
-<br><br>
-
-<a href="#about-me">○ ABOUT</a>
-
-<br><br>
-
-<a href="#skill-tree">⚙ SKILLS</a>
-
-<br><br>
-
-<a href="#current-quest">◈ QUESTS</a>
-
-<br><br>
-
-<a href="#project-select">□ PROJECTS</a>
-
-<br><br>
-
-<a href="#social-link">↗ SOCIAL</a>
-
-<br><br><br>
-
-━━━━━━━━━━━━
-
-<br><br>
-
-<small>
-
-02ANGHEL-O
-
-<br><br>
-
-PLAYER 01
-
-<br><br>
-
-ONLINE
-
-</small>
-
-</div>
-
-</td>
-
-
-<!-- ==================== CENTER ==================== -->
-
-<td width="57%" valign="top">
-
-<!-- ABOUT -->
+<!-- ABOUT ME -->
 
 <h2 id="about-me">› ABOUT ME</h2>
 
@@ -120,7 +67,7 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 
 <!-- PLAYER DATA -->
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 <h2>› PLAYER DATA</h2>
 
@@ -158,13 +105,13 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 
 <!-- CURRENT QUEST -->
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 <h2 id="current-quest">💿 CURRENT QUEST</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=350&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;LEVELING+UP..." width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=400&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;LEVELING+UP..." width="100%">
 
 <br>
 
@@ -243,9 +190,9 @@ MORE SOON...
 </td>
 
 
-<!-- ==================== RIGHT ==================== -->
+<!-- ================= RIGHT SIDEBAR ================= -->
 
-<td width="25%" valign="top">
+<td width="30%" valign="top">
 
 <!-- SKILL TREE -->
 
@@ -287,7 +234,7 @@ MORE SOON...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="160">
+<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="180">
 
 </div>
 
@@ -297,15 +244,17 @@ MORE SOON...
 <hr>
 
 
-<!-- SOCIAL LINK DEBAJO DE SKILL TREE -->
+<!-- SOCIAL LINK -->
 
 <h2 id="social-link">📡 SOCIAL LINK</h2>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/02anghel-o">
 
-<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14" width="100%">
+<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14">
 
 </a>
 
@@ -313,7 +262,7 @@ MORE SOON...
 
 <a href="https://www.instagram.com/trealcoco/">
 
-<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14" width="100%">
+<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14">
 
 </a>
 
@@ -337,6 +286,8 @@ MORE SOON...
 </table>
 
 <br>
+
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 

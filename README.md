@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/02anghel-o/02anghel-o/main/winamp-top.png" width="100%">
+<img src="./winamp-top.png" width="100%">
 
 <br>
 
@@ -254,7 +254,7 @@ MORE SOON...
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/02anghel-o/02anghel-o/main/winamp-bottom.png" width="100%">
+<img src="./winamp-bottom.png" width="100%">
 
 <br>
 

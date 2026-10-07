@@ -20,12 +20,12 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<!-- LEFT MENU -->
+<!-- ==================== MENU ==================== -->
 
-<td width="20%" valign="top">
+<td width="18%" valign="top">
 
 <div align="center">
 
@@ -65,11 +65,11 @@
 
 02ANGHEL-O
 
-<br>
+<br><br>
 
 PLAYER 01
 
-<br>
+<br><br>
 
 ONLINE
 
@@ -80,9 +80,11 @@ ONLINE
 </td>
 
 
-<!-- CENTER -->
+<!-- ==================== CENTER ==================== -->
 
-<td width="55%" valign="top">
+<td width="57%" valign="top">
+
+<!-- ABOUT -->
 
 <h2 id="about-me">› ABOUT ME</h2>
 
@@ -109,6 +111,16 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 </div>
 
 <hr>
+
+
+<!-- PLAYER DATA + CURRENT QUEST -->
+
+<table width="100%">
+<tr>
+
+<!-- PLAYER DATA -->
+
+<td width="45%" valign="top">
 
 <h2>› PLAYER DATA</h2>
 
@@ -141,17 +153,22 @@ I'm also a big fan of the <strong>PS2 / Dreamcast / GameCube era</strong>, old i
 
 </table>
 
-<hr>
+</td>
+
+
+<!-- CURRENT QUEST -->
+
+<td width="55%" valign="top">
 
 <h2 id="current-quest">💿 CURRENT QUEST</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=500&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;BREAKING+MY+CODE...;FIXING+MY+CODE...;LEVELING+UP...">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=350&lines=LEARNING+SOFTWARE+DEVELOPMENT...;EXPERIMENTING+WITH+CODE...;BUILDING+NEW+THINGS...;LEVELING+UP..." width="100%">
 
-<br><br>
+<br>
 
-<table width="90%">
+<table width="95%">
 <tr>
 <td align="center">
 
@@ -185,7 +202,15 @@ LEARNING SOFTWARE DEVELOPMENT
 
 </div>
 
+</td>
+
+</tr>
+</table>
+
 <hr>
+
+
+<!-- PROJECT SELECT -->
 
 <h2 id="project-select">🕹️ PROJECT SELECT</h2>
 
@@ -215,7 +240,64 @@ MORE SOON...
 
 </div>
 
+</td>
+
+
+<!-- ==================== RIGHT ==================== -->
+
+<td width="25%" valign="top">
+
+<!-- SKILL TREE -->
+
+<h2 id="skill-tree">› SKILL TREE</h2>
+
+<p><strong>HTML</strong></p>
+
+<p>
+██████████████████░░
+<br>
+90%
+</p>
+
+<p><strong>JAVASCRIPT</strong></p>
+
+<p>
+███████████████░░░░░
+<br>
+75%
+</p>
+
+<p><strong>PYTHON</strong></p>
+
+<p>
+█████████████░░░░░░░
+<br>
+65%
+</p>
+
+<p><strong>C#</strong></p>
+
+<p>
+██████████░░░░░░░░░░
+<br>
+50%
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="160">
+
+</div>
+
+
+<br>
+
 <hr>
+
+
+<!-- SOCIAL LINK DEBAJO DE SKILL TREE -->
 
 <h2 id="social-link">📡 SOCIAL LINK</h2>
 
@@ -223,7 +305,7 @@ MORE SOON...
 
 <a href="https://github.com/02anghel-o">
 
-<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14">
+<img src="https://img.shields.io/badge/GITHUB-02ANGHEL--O-11140C?style=for-the-badge&logo=github&logoColor=39FF14" width="100%">
 
 </a>
 
@@ -231,54 +313,21 @@ MORE SOON...
 
 <a href="https://www.instagram.com/trealcoco/">
 
-<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14">
+<img src="https://img.shields.io/badge/INSTAGRAM-@TREALCOCO-11140C?style=for-the-badge&logo=instagram&logoColor=39FF14" width="100%">
 
 </a>
 
 <br><br>
 
 <code>GOOD MUSIC</code>
-&nbsp;
-<code>GOOD VIBES</code>
-&nbsp;
-<code>BETTER CODE</code>
-
-</div>
-
-</td>
-
-
-<!-- RIGHT SKILLS -->
-
-<td width="25%" valign="top">
-
-<h2 id="skill-tree">› SKILL TREE</h2>
-
-<p><strong>HTML</strong></p>
-
-<p>██████████████████░░<br>
-90%</p>
-
-<p><strong>JAVASCRIPT</strong></p>
-
-<p>███████████████░░░░░<br>
-75%</p>
-
-<p><strong>PYTHON</strong></p>
-
-<p>█████████████░░░░░░░<br>
-65%</p>
-
-<p><strong>C#</strong></p>
-
-<p>██████████░░░░░░░░░░<br>
-50%</p>
 
 <br>
 
-<div align="center">
+<code>GOOD VIBES</code>
 
-<img src="https://skillicons.dev/icons?i=html,js,python,cs&theme=dark" width="160">
+<br>
+
+<code>BETTER CODE</code>
 
 </div>
 
